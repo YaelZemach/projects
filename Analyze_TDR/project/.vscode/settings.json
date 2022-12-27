@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "ini.h": "c",
+        "libconfig.h": "c",
+        "structs.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

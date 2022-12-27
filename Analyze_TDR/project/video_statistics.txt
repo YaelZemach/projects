@@ -1,0 +1,4 @@
+number of requests: 3343
+number of connections: 553
+videos have been watched: 3
+index_arr_connection: 551
